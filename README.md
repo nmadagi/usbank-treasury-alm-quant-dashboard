@@ -1,6 +1,6 @@
 # 🏦 Treasury ALM Quantitative Dashboard
 
-**Portfolio Project for U.S. Bank — Quantitative Model Analyst (Treasury)**
+**Portfolio Project for Quantitative Model Analyst (Treasury)**
 
 A 6-tab interactive Streamlit dashboard demonstrating balance sheet forecasting, NII sensitivity analysis, interest rate risk measurement, deposit behavior modeling, model validation, and macroeconomic scenario generation.
 
@@ -67,4 +67,4 @@ VAR(2) macroeconomic scenario engine showing GDP, unemployment, and Fed funds ra
 
 ---
 
-*Built to demonstrate quantitative modeling capabilities for the U.S. Bank Corporate Treasury ALM Quantitative Finance group.*
+*Built to demonstrate quantitative modeling capabilities as a portfolio project demonstrating Treasury ALM quantitative modeling capabilities.*

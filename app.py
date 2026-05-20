@@ -498,7 +498,7 @@ with tab6:
 st.markdown("---")
 st.markdown(
     "<div style='text-align:center; color:#94a3b8; font-size:12px;'>"
-    "Built for U.S. Bank Quantitative Model Analyst – Treasury (Req 2026-0006177) · "
+    ""
     "Nitin Madagi · MS Financial Mathematics, University at Buffalo"
     "</div>",
     unsafe_allow_html=True,
